@@ -8105,11 +8105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\React\\React-ERP\\api-service\\api-service.csproj",
+      "projectUniqueName": "D:\\Project\\React-ERP\\api-service\\api-service.csproj",
       "projectName": "api-service",
-      "projectPath": "D:\\React\\React-ERP\\api-service\\api-service.csproj",
+      "projectPath": "D:\\Project\\React-ERP\\api-service\\api-service.csproj",
       "packagesPath": "C:\\Users\\psantipap\\.nuget\\packages\\",
-      "outputPath": "D:\\React\\React-ERP\\api-service\\obj\\",
+      "outputPath": "D:\\Project\\React-ERP\\api-service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\psantipap\\AppData\\Roaming\\NuGet\\NuGet.Config"
