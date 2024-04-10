@@ -1,7 +1,7 @@
 // Navbar.tsx
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faUser, faCog, faLock } from '@fortawesome/free-solid-svg-icons';
+import { faLock } from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
@@ -14,6 +14,9 @@ const Navbar = () => {
         // นำผู้ใช้ไปยังหน้า Login
         navigate('/');
     };
+
+
+
     return (
         <div className="navbar bg-base-300">
             <div className="navbar-start">
