@@ -28,14 +28,12 @@ const Navbar = () => {
                         <li><Link to="/dashboard">Home</Link></li>
                         <li>
                             <details>
-                                <summary>Department</summary>
+                                <summary>HR</summary>
                                 <ul className="p-2">
-                                    <li><Link to="/hr/dashboard">HR</Link></li>
-                                    <li><a>Purchasing</a></li>
+                                    <li><Link to="/hr/dashboard">Dashboard</Link></li>
                                 </ul>
                             </details>
                         </li>
-                        <li><a>Item 3</a></li>
                     </ul>
                 </div>
                 <label className="btn btn-ghost text-xl">React ERP System</label>
@@ -45,14 +43,12 @@ const Navbar = () => {
                     <li><Link to="/dashboard">Home</Link></li>
                     <li>
                         <details>
-                            <summary>Department</summary>
+                            <summary>HR</summary>
                             <ul className="p-2">
-                                <li><Link to="/hr/dashboard">HR</Link></li>
-                                <li><a>Purchasing</a></li>
+                                <li><Link to="/hr/dashboard">Dashboard</Link></li>
                             </ul>
                         </details>
                     </li>
-                    <li><a>Item 3</a></li>
                 </ul>
             </div>
             <div className="navbar-end">
