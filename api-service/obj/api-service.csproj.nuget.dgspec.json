@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\React-ERP\\api-service\\api-service.csproj": {}
+    "D:\\React\\React-ERP\\api-service\\api-service.csproj": {}
   },
   "projects": {
-    "D:\\Project\\React-ERP\\api-service\\api-service.csproj": {
+    "D:\\React\\React-ERP\\api-service\\api-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\React-ERP\\api-service\\api-service.csproj",
+        "projectUniqueName": "D:\\React\\React-ERP\\api-service\\api-service.csproj",
         "projectName": "api-service",
-        "projectPath": "D:\\Project\\React-ERP\\api-service\\api-service.csproj",
+        "projectPath": "D:\\React\\React-ERP\\api-service\\api-service.csproj",
         "packagesPath": "C:\\Users\\psantipap\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\React-ERP\\api-service\\obj\\",
+        "outputPath": "D:\\React\\React-ERP\\api-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\psantipap\\AppData\\Roaming\\NuGet\\NuGet.Config"

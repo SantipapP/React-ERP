@@ -37,9 +37,9 @@ namespace api_service
                 con.Open();
                 using (MySqlCommand custProfile = new MySqlCommand(query, con))
                 {
+                    
                     custProfile.Parameters.AddWithValue("@u_email", us.u_email);
                     custProfile.Parameters.AddWithValue("@u_password", us.u_password);
-
                     checkProfile = custProfile.ExecuteReader();
                     profile_dt.Load(checkProfile);
                     checkProfile.Close();
