@@ -5,9 +5,6 @@ const EmployeeTable = () => {
 
     return (
         <div>
-            <div className="w-100">
-
-            </div>
           <table className="table table-hover table-striped table-mobile-responsive table-mobile-sided">
                 <thead>
                   <tr>

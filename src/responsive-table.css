@@ -61,8 +61,16 @@
         position: relative;
         padding-left: 50%;
         padding-top: 1.5rem !important;
-        text-align: end;
+        text-align: right;
     }
+
+    .table-mobile-responsive td[data-content]::content {
+        /* Behave  like a "row" */
+        text-align: left;
+    }
+
+    
+    
     
 
     .table-mobile-responsive td:before {
