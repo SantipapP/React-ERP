@@ -9,7 +9,7 @@ const HRDashboard = () => {
   return (
     <div>
       <Navbar />
-      <div className="flex justify-center py-2 px-4 sm:px-6 lg:px-8">
+      <div className="flex justify-center py-2 px-2 sm:px-6 lg:px-8">
         {/* <div className="max-w-xs w-full space-y-8 m-5">
           <div className="bg-white shadow-md rounded-lg p-4">
             <h3 className="text-lg font-medium mb-2">จำนวนพนักงาน</h3>
